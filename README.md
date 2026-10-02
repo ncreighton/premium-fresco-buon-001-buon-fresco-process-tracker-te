@@ -1,0 +1,2 @@
+# premium-fresco-buon-001-buon-fresco-process-tracker-te
+Tracking buon fresco layers, timing, and pigment ratios across multiple walls shouldn't mean juggling spreadsheets and notebooks. The Buon Fresco Process Tracker Template brings your entire heritage fresco workflow into one living Notion workspace—so nothing gets lost between the arriccio and the final burnish.  This template is built specifically
